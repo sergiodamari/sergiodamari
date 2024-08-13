@@ -2,7 +2,7 @@
 
 meu nome e Sergio Henrique 
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvilvendo na linguagen JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
